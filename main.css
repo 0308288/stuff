@@ -9,7 +9,7 @@ h2 {
 }
 
 h3 {
-    color: emerald;
+    color: black;
     font-size: 50px;
 }
 
@@ -17,9 +17,12 @@ header {
     text-align: center;
 }
 
-body {
-
+sub {
+    color: black;
+    font-size: 50px;
+    text-decoration: underline;
 }
+
 
 img {
     height: 550px;
