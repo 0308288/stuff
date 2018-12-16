@@ -11,6 +11,7 @@ h2 {
 h3 {
     color: black;
     font-size: 50px;
+    text-indent: 1.5em;
 }
 
 header {
@@ -24,12 +25,13 @@ sub {
 }
 
 
+a,
 img {
     height: 550px;
-    width: 500px;
+    width: 475px;
     display: inline;
-    padding: 50px;
-    text-align: center;
+    padding: 25px;
+    margin: 25px;
 }
 
 
